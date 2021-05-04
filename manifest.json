@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "version": "1.4",
+  "name": "Neon blue dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(3, 0, 68)",
+      "toolbar_text": "rgb(67, 194, 218)",
+      "frame": "rgb(26, 67, 105)",
+      "tab_background_text": "rgb(0, 174, 206)",
+      "toolbar_field": "rgb(38, 72, 102)",
+      "toolbar_field_text": "rgb(0, 216, 255)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(3, 0, 68)",
+      "popup_text": "rgb(24, 156, 180)",
+      "button_background_active": "rgb(8, 93, 109)",
+      "button_background_hover": "rgb(0, 25, 48)",
+      "icons": "rgb(0, 204, 255)",
+      "ntp_background": "rgb(1, 40, 49)",
+      "ntp_text": "rgb(0, 209, 255)",
+      "popup_border": "rgb(0, 209, 255)",
+      "popup_highlight": "rgb(0, 186, 255)",
+      "sidebar_border": "rgb(18, 78, 91)",
+      "sidebar_highlight": "rgb(20, 161, 192)",
+      "sidebar_text": "rgb(0, 212, 255)",
+      "sidebar": "rgb(4, 72, 86)",
+      "tab_background_separator": "rgb(0, 204, 255)",
+      "tab_loading": "rgb(0, 212, 255)",
+      "tab_selected": "rgb(3, 0, 68)",
+      "toolbar_bottom_separator": "rgb(0, 209, 255)",
+      "toolbar_field_border_focus": "rgb(0, 216, 255)",
+      "toolbar_field_border": "rgb(0, 212, 255)",
+      "toolbar_field_separator": "rgb(0, 25, 48)",
+      "toolbar_top_separator": "rgb(4, 72, 86)"
+    }
+  }
+}
