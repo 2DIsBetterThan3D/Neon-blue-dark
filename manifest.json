@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.4",
+  "version": "2.0",
   "name": "Neon blue dark",
   "theme": {
     "images": {
@@ -10,7 +10,7 @@
     },
     "properties": {
       "additional_backgrounds_alignment": [
-        "right top"
+        "right bottom"
       ],
       "additional_backgrounds_tiling": [
         "repeat"
@@ -18,12 +18,12 @@
     },
     "colors": {
       "toolbar": "rgb(3, 0, 68)",
-      "toolbar_text": "rgb(67, 194, 218)",
-      "frame": "rgb(26, 67, 105)",
-      "tab_background_text": "rgb(0, 174, 206)",
+      "toolbar_text": "rgb(198, 114, 2)",
+      "frame": "rgb(0, 6, 100)",
+      "tab_background_text": "rgb(0, 204, 255)",
       "toolbar_field": "rgb(38, 72, 102)",
-      "toolbar_field_text": "rgb(0, 216, 255)",
-      "tab_line": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(198, 114, 2)",
+      "tab_line": "rgb(123, 71, 0)",
       "popup": "rgb(3, 0, 68)",
       "popup_text": "rgb(24, 156, 180)",
       "button_background_active": "rgb(8, 93, 109)",
